@@ -36,19 +36,19 @@ Three ML models were implemented and compared:
 Random Forest was selected as the best model.
 
 ## Project Structure
-DataProcessing.ipynb        # Data merging, cleaning, preprocessing
-EDA.py                      # Exploratory data analysis & visualizations
-KNN_Model.ipynb             # KNN baseline implementation
-RF_Models.ipynb             # Random Forest with hyperparameter tuning
-weather_svm_model.py        # SVM classifier implementation
-extract_hsv.py              # HSV feature extraction
-extract_sift.py             # SIFT feature extraction
-build_final_features.py     # Feature vector construction
-download_images.py          # Image downloading pipeline
-filter_real_images.py       # Image validation and filtering
-finalize_dataset.py         # Final dataset preparation
-dataset_clean.csv           # Cleaned dataset
-Report.pdf                  # Full project report
+- DataProcessing.ipynb        # Data merging, cleaning, preprocessing
+- EDA.py                      # Exploratory data analysis & visualizations
+- KNN_Model.ipynb             # KNN baseline implementation
+- RF_Models.ipynb             # Random Forest with hyperparameter tuning
+- weather_svm_model.py        # SVM classifier implementation
+- extract_hsv.py              # HSV feature extraction
+- extract_sift.py             # SIFT feature extraction
+- build_final_features.py     # Feature vector construction
+- download_images.py          # Image downloading pipeline
+- filter_real_images.py       # Image validation and filtering
+- finalize_dataset.py         # Final dataset preparation
+- dataset_clean.csv           # Cleaned dataset
+- Report.pdf                  # Full project report
 
 ## Key Findings
 
